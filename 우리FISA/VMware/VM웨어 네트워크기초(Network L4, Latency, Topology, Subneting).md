@@ -34,7 +34,7 @@
 - fe : fast ethernet  (100M bps ←- 100*10^6 bit per sec)
 - gi : giga ethernet  (1*10^9 bps)
 - te : tera ethernet
-- bandwidth : 대역폭의 차이
+- bandwidth : 대역폭의 차이 bandwidth가 높아야 QOS를 보장할 수 있다.
 
 ### 네트워크 구조타입
 
