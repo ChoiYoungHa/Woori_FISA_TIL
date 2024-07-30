@@ -4,7 +4,7 @@
 
 - jdbc를 추상화 시켜서 코드 10줄을 1줄로 만들어줌
 
-![jdbc_code.png](fisa/jdbc_code.png)
+![fisa/jdbc_code.png](fisa/jdbc_code.png)
 
 - 반복적인 커넥션, pstmt객체 생성, resultset 객체 생성
 - 각 객체 close 처리 비효율적
